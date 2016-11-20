@@ -1,0 +1,44 @@
+table {
+   border-collapse: collapse;
+   border-spacing: 0;
+   border: 1px solid #989ea4;
+}
+th {
+  border-bottom: 1px solid #989ea4; 
+  border-right: 1px solid #989ea4;
+  background: #f2f2f2;
+  padding: 15px;
+  width: 180px;
+  text-align:left;
+}
+td {
+  width: 400px;
+  border-bottom: 1px solid #989ea4; 
+  padding: 15px;
+}
+h3 {
+  margin: auto;
+  margin-bottom: 10px;
+}
+div.container {
+  margin: auto;
+  width: 800px;
+}
+input {
+  width: 350px;
+  padding: 5px;
+}
+select {
+  border: 1px solid #ccc;
+}
+button {
+  padding: 10px 30px;
+  text-align: center;
+  background: #367ac3;
+  color: #fff;
+  border: none;
+  font-size: 14px;
+}
+.error {
+  color:red;
+}
